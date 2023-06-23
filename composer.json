@@ -1,12 +1,12 @@
 {
     "name": "meeeet-dev/laravelrave",
     "description": "A Laravel 10 Package for Flutterwave Rave",
-    "keywords": ["php","github", "laravel","Open Source","payments", "kingflamez", "Flutterwave Rave", "Flutterwave", "rave", "ravepay.co","laravel 5"],
+    "keywords": ["php","github", "laravel","Open Source","payments", "meeeet-dev", "Flutterwave Rave", "Flutterwave", "rave", "ravepay.co","laravel 10"],
     "license": "MIT",
     "authors": [
         {
-            "name": "kingflamez",
-            "email": "flamekeed@gmail.com"
+            "name": "meeeet-dev",
+            "email": "meeeet.dev@gmail.com"
         }
     ],
     "minimum-stability": "stable",
